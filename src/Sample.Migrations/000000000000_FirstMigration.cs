@@ -32,6 +32,7 @@ namespace Sample.Migrations
                 .Row(
                 new
                 {
+                    Id = 1,
                     Title = "This is a title 1",
                     Abstract = "This is an abstract",
                     Body = "Your content here, because you know: is an awesome post"
@@ -39,6 +40,7 @@ namespace Sample.Migrations
                 .Row(
                 new
                 {
+                    Id = 2,
                     Title = "This is a title 2",
                     Abstract = "This is an abstract",
                     Body = "Your content here, because you know: is an awesome post"
@@ -46,6 +48,7 @@ namespace Sample.Migrations
                 .Row(
                 new
                 {
+                    Id = 3,
                     Title = "This is a title 3",
                     Abstract = "This is an abstract",
                     Body = "Your content here, because you know: is an awesome post"
@@ -53,6 +56,7 @@ namespace Sample.Migrations
                 .Row(
                 new
                 {
+                    Id = 4,
                     Title = "This is a title 4",
                     Abstract = "This is an abstract",
                     Body = "Your content here, because you know: is an awesome post"
@@ -60,6 +64,7 @@ namespace Sample.Migrations
                 .Row(
                 new
                 {
+                    Id = 5,
                     Title = "This is a title 5",
                     Abstract = "This is an abstract",
                     Body = "Your content here, because you know: is an awesome post"
